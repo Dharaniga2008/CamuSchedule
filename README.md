@@ -448,8 +448,8 @@ EVEN-JUNIOR I 2025-2026
 
 
 ## OUTPUT:
-![Output](camu1.png)
-![Output](camu2.png)
+![Output]![alt text](<Screenshot (102).png>)
+![Output]![alt text](<Screenshot (103).png>)
 
 
 ## RESULT:
